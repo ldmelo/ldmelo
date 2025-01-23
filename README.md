@@ -8,7 +8,9 @@
 >
 > Hoje sou Analista de Dados na [Energisa](https://www.grupoenergisa.com.br), na mesma equipe onde fiz estágio, e agora atuo na criação e análise de indicadores de desempenho estratégicos, transformando dados brutos em insights importantes para suportar uma tomada de decisão orientada por dados utilizando as ferramentas Power Platform da Microsoft: Power BI, Power Query e Linguagem M, funções DAX, Dataflows e SharePoint.
 
+<!--
 ## Portfólio de projetos públicos
+-->
 
 <!--
 **ldmelo/ldmelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

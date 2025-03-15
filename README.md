@@ -6,7 +6,7 @@
 >
 > No início da minha carreira, tive a oportunidade de estagiar em duas empresas do setor de energia: [Carto Solar](https://cartosolar.com.br) e [Energisa](https://www.grupoenergisa.com.br). Na primeira trabalhei com projetos de eficiência energética e na segunda trabalhei com o acompanhamento de indicadores estratégicos para avaliação do desempenho de serviços de TI. Em ambas trabalhei com grandes quantidades de dados e a necessidade de tratá-los, organizá-los e analisá-los, daí surgiu minha grande paixão profissional: **Ciência de Dados**. Durante o intercâmbio em Portugal ampliei a paixão por trabalhar com dados ao desenvolver meu trabalho de conclusão de curso dentro do projeto [iSafety](https://isafety.morecolab.pt), no qual atuei como bolsista de pesquisa. O objetivo do meu trabalho foi desenvolver e aprimorar um algoritmo de machine learning capaz de prever o nível de risco de ocorrência de acidentes no setor do varejo.
 >
-> Hoje sou Analista de Dados na [Energisa](https://www.grupoenergisa.com.br), na mesma equipe onde fiz estágio, e agora atuo na criação e análise de indicadores de desempenho estratégicos, transformando dados brutos em insights importantes para suportar uma tomada de decisão orientada por dados utilizando as ferramentas Power Platform da Microsoft: Power BI, Power Query e Linguagem M, funções DAX, Dataflows e SharePoint.
+> Hoje sou Analista de Processos Sênior na [MRV](https://mrveco.com.br/), e atuo na criação e análise de indicadores para a Diretoria de Produtos e Projetos, gerando insights importantes para suportar uma tomada de decisão orientada por dados utilizando as ferramentas Power BI, Power Query e Linguagem M, funções DAX, SQL e Google Cloud Platform.
 
 <!--
 ## Portfólio de projetos públicos

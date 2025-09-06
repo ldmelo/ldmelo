@@ -18,5 +18,5 @@
 > I am currently a Sênior Proccess Analyst (data focused) at Proccesses and Results Centre of the Products and Projects Board of the MRV&CO.
 >
 > My projects are developed with a focus on efficiency and performance, applying practices such as query optimization, efficient data modeling and process refactoring to reduce update times and improve runtime loading, enhancing the user experience.
-
-My professional career reflects an ongoing commitment to improving operational efficiency and maximizing results through a data-driven culture, ensuring that each insight generates real business impact.
+>
+> My professional career reflects an ongoing commitment to improving operational efficiency and maximizing results through a data-driven culture, ensuring that each insight generates real business impact.

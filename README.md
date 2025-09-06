@@ -1,5 +1,4 @@
 ## About me
-<
 <!--
 > Sou formado em [Engenharia de Controle e Automação](https://www.eng-controleautomacao.leopoldina.cefetmg.br/) pelo [Centro Federal de Educação Tecnológica de Minas Gerais](https://www.cefetmg.br/) (CEFET-MG) e concluí o [mestrado em Engenharia Industrial](https://portal3.ipb.pt/index.php/pt/guiaects/cursos/mestrados/curso?cod_escola=3043&cod_curso=9572) no [Instituto Politécnico de Bragança](https://ipb.pt/) (IPB), em Portugal, por meio de um programa de intercâmbio em parceria com o CEFET-MG.
 > 
